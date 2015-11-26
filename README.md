@@ -6,3 +6,5 @@ Create pro HTML file without technical skills
 2 - Define the .json data template
 
 3 - Adjust the .js and .class.php file
+
+![HTML Template editor](http://workinflow.segeco.fr/hte/html-template-editor.png "html template editor")
